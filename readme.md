@@ -28,5 +28,7 @@
 ```
 
 - To run the scraper open the terminal in the directory and enter 'python scraper.py'
-- To change starting page change line 12 of scraper.py
+
+## Starting from a different page
+- If you would like to change starting page change line 12 of scraper.py
 - Running the scraper more than once with different starting pages can result in images being overwritten.
