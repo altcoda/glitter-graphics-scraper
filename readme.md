@@ -8,6 +8,7 @@
 # Glitter-Graphics Scraper
 
 - Download as many pictures as you like from glitter-graphics by selecting a category.
+- They are downloaded in full size with their original file extension.
 - You can also change the starting page as easily.
 - I made this scraper for fun and to learn. If there are any issues you can report them.
 
@@ -22,6 +23,7 @@
 
 # Setup & Use
 
+- Clone the repo.
 - Install all necessary dependencies with this command
 
 ```
