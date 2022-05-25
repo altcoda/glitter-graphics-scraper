@@ -1,13 +1,13 @@
 <center>
 
-![scraper in terminal](https://i.ibb.co/YQPNNCC/scraper-preview-1.jpg)
+![scraper in terminal](https://i.ibb.co/1dg7WhG/scraper-preview-1.jpg)
 
 ![scraper results](https://i.ibb.co/pvDZPRC/scraper-preview-2.png)
 </center>
 
 # Glitter-Graphics Scraper
 
-- Download as many pictures as you like from glitter-graphics by selecting a category.
+- Download as many pictures as you like from [glitter-graphics](https://www.glitter-graphics.com/) by selecting a category.
 - They are downloaded in full size with their original file extension.
 - You can also change the starting page as easily.
 - I made this scraper for fun and to learn. If there are any issues you can report them.
