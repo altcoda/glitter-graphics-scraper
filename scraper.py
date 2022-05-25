@@ -52,7 +52,7 @@ def scrape_by_category():
 
 
 print('\n' + pad_line(WELCOME_MSG))
-command = input(pad_line("To run type '-y' or to quit type '-n')") + '\n')
+command = input(pad_line("To run type '-y' or to quit type '-n'") + '\n')
 
 if command == '-y':
     print('\n')
