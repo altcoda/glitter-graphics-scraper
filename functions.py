@@ -64,7 +64,7 @@ def gallery_url(gallery_id, number):
     return GALLERY_LOCATION + gallery_id + f'&page={number}'
 
 
-# Get total number of pages. Don't change yet as we haven't started scraping.
+# Get total number of gallery pages for category
 def get_total_pages(gallery_id):
     page = get_soup(gallery_url(gallery_id, 1))
     pager = page.find('div', {'class': 'pager_widget'})
