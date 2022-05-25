@@ -1,9 +1,6 @@
-<center>
-
 ![scraper in terminal](https://i.ibb.co/1dg7WhG/scraper-preview-1.jpg)
 
 ![scraper results](https://i.ibb.co/pvDZPRC/scraper-preview-2.png)
-</center>
 
 # Glitter-Graphics Scraper
 
